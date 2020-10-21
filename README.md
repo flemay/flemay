@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center"><img src="banner.jpg" width="100%"></p>
+
+
+## Hi there 👋
 
 <!--
 **flemay/flemay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
