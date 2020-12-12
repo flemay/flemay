@@ -1,7 +1,10 @@
 <p align="center"><img src="cover.jpg" width="100%"></p>
+<p align="right"><small><i>Made with Vectornator</i></small></p>
 
 
 ## Hi there 👋
+
+I am a Software Engineer who enjoys Backend, DevOps, and the Cloud! These days, I work with Go, TypeScript/Node, Docker, and AWS.
 
 <!--
 **flemay/flemay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
