@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.jpg" width="100%"></p>
+<p align="center"><img src="cover.jpg" width="100%"></p>
 
 
 ## Hi there 👋
