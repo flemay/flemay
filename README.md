@@ -9,7 +9,7 @@ I am a Software Engineer who enjoys Backend, DevOps, and the Cloud! These days, 
 ## 💻  Projects
 
 - [3 Musketeers][link3MusketeersGitHub]: Test, build, and deploy your apps from anywhere, the same way! [![GitHub Stars Badge][link3MusketeersBadgeStars]][link3MusketeersGitHub]
-- [flemay/musketeers][linkMusketeersGitHub]: Lightweight image with essential tools for a 3 Musketeers project. [![Docker Hub Pulls Badge][linkMusketeersDockerHubBadgePulls]][linkMusketeersGitHub]
+- [flemay/musketeers][linkMusketeersGitHub]: Lightweight Docker image with essential tools for a 3 Musketeers project. [![Docker Hub Pulls Badge][linkMusketeersDockerHubBadgePulls]][linkMusketeersGitHub]
 - [envvars][linkEnvvarsGitHub]: Give your environment variables the love they deserve. [![GitHub Stars Badge][linkEnvvarsBadgeStars]][linkEnvvarsGitHub] [![Docker Hub Pulls Badge][LinkEnvvarsDockerHubBadgePulls]][linkEnvvarsGitHub]
 
 ## 📝 Blog posts
