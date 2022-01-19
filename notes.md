@@ -2,6 +2,9 @@
 
 ## References
 
+- https://docs.github.com/en/enterprise-server@3.2/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+- https://github.com/caiyongji/emoji-list
+- https://www.webfx.com/tools/emoji-cheat-sheet/
 - Inspirations https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 
@@ -17,5 +20,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
 -->
