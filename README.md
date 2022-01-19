@@ -13,13 +13,13 @@ I am a Software Engineer who enjoys Backend, DevOps, and the Cloud! These days, 
 - [envvars][linkEnvvarsGitHub]: Give your environment variables the love they deserve. [![GitHub Stars Badge][linkEnvvarsBadgeStars]][linkEnvvarsGitHub] [![Docker Hub Pulls Badge][LinkEnvvarsDockerHubBadgePulls]][linkEnvvarsDockerHub]
 - [amaysim-au/docker-serverless][linkAmaysimDockerServerlessGitHub]: Docker image containing NodeJS, Serverless Framework and Yarn. [![GitHub Stars Badge][linkAmaysimDockerServerlessGitHubBadgeStars]][linkAmaysimDockerServerlessGitHub] [![Docker Hub Pulls Badge][linkAmaysimDockerServerlessDockerHubBadgePulls]][linkAmaysimDockerServerlessDockerHub]
 
-## :pencil: Blog posts
+## :pencil2: Blog posts
 
 - [Generate Table of Contents with GitHub Actions][linkBlogPostToC]
 - [Trying out the new Hugo’s Assets Pipeline with Docker][linkBlogPostHugoAssets]
 - [The 3 Musketeers: How Make, Docker and Compose enable us to release many times a day][linkBlogPost3Musketeers]
 
-## :seeding: Contributions
+## :seedling: Contributions
 
 - compose-spec/compose-go - [PR][linkContributingComposeGo] to fix inherited environment variables
 - amplify-education/serverless-log-forwarding - [PR][linkContributingServerlessLogForwarding] to fix function log group as dependency
