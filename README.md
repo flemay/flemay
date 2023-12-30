@@ -9,9 +9,10 @@ I am a Software Engineer who enjoys Backend, DevOps, and the Cloud! These days, 
 ## :computer: Projects
 
 - [3 Musketeers][link3MusketeersGitHub]: Test, build, and deploy your apps from anywhere, the same way! [![GitHub Stars Badge][link3MusketeersBadgeStars]][link3MusketeersGitHub]
-- [flemay/musketeers][linkMusketeersGitHub]: Lightweight Docker image with essential tools for a 3 Musketeers project. [![Docker Hub Pulls Badge][linkMusketeersDockerHubBadgePulls]][linkMusketeersDockerHub]
-- [envvars][linkEnvvarsGitHub]: Give your environment variables the love they deserve. [![GitHub Stars Badge][linkEnvvarsBadgeStars]][linkEnvvarsGitHub] [![Docker Hub Pulls Badge][LinkEnvvarsDockerHubBadgePulls]][linkEnvvarsDockerHub]
-- [amaysim-au/docker-serverless][linkAmaysimDockerServerlessGitHub]: Docker image containing NodeJS, Serverless Framework and Yarn. [![GitHub Stars Badge][linkAmaysimDockerServerlessGitHubBadgeStars]][linkAmaysimDockerServerlessGitHub] [![Docker Hub Pulls Badge][linkAmaysimDockerServerlessDockerHubBadgePulls]][linkAmaysimDockerServerlessDockerHub]
+- [flemay/musketeers][linkMusketeersGitHub]: Lightweight Docker image with essential tools for a 3 Musketeers project [![Docker Hub Pulls Badge][linkMusketeersDockerHubBadgePulls]][linkMusketeersDockerHub]
+- [envvars][linkEnvvarsGitHub]: Give your environment variables the love they deserve [![GitHub Stars Badge][linkEnvvarsBadgeStars]][linkEnvvarsGitHub] [![Docker Hub Pulls Badge][LinkEnvvarsDockerHubBadgePulls]][linkEnvvarsDockerHub]
+- [amaysim-au/docker-serverless][linkAmaysimDockerServerlessGitHub]: Docker image containing NodeJS, Serverless Framework and Yarn [![GitHub Stars Badge][linkAmaysimDockerServerlessGitHubBadgeStars]][linkAmaysimDockerServerlessGitHub] [![Docker Hub Pulls Badge][linkAmaysimDockerServerlessDockerHubBadgePulls]][linkAmaysimDockerServerlessDockerHub]
+- [VHS Themes][linkVHSThemesGitHub]: VHS Themes builds and hosts a gallery showcasing hundreds of themes from charmbracelet/vhs [![GitHub Stars Badge][linkVHSThemesBadgeStars]][linkVHSThemesGitHub]
 
 ## :pencil2: Blog posts
 
@@ -35,6 +36,9 @@ I am a Software Engineer who enjoys Backend, DevOps, and the Cloud! These days, 
 [linkEnvvarsBadgeStars]: https://img.shields.io/github/stars/flemay/envvars?style=social
 [linkEnvvarsDockerHub]: https://hub.docker.com/r/flemay/envvars
 [LinkEnvvarsDockerHubBadgePulls]: https://img.shields.io/docker/pulls/flemay/envvars
+
+[linkVHSThemesGitHub]: https://github.com/flemay/vhs-themes
+[linkVHSThemesBadgeStars]: https://img.shields.io/github/stars/flemay/vhs-themes?style=social
 
 [linkAmaysimDockerServerlessGitHub]: https://github.com/amaysim-au/docker-serverless
 [linkAmaysimDockerServerlessGitHubBadgeStars]: https://img.shields.io/github/stars/amaysim-au/docker-serverless?style=social
